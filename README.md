@@ -1,5 +1,5 @@
 # Heart-Disease-Prediction 
-This project predicts heart disease using Logistic Regression on the UCI Heart Disease dataset.
+This project predicts heart disease using Logistic Regression on the  [Heart Disease dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 
 Features  
 - Load and explore dataset (shape, class distribution, mean values per class)  
